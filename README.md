@@ -1,4 +1,4 @@
-# Medidor de volumen de agua en un tanque.
+# Medidor de Volumen de Agua en un Tanque de Agua.
 
 Autor: Gabriel Noya.
 Fecha de culminacion: 18/01/2017.
