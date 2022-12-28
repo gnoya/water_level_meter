@@ -1,10 +1,9 @@
-# Medidor de Volumen de Agua en un Tanque de Agua.
+# Water Volume Meter in a Water Tank.
 
-Autor: Gabriel Noya.
+Displays the water volume left in a tank in a LCD screen using an Arduino UNO. Circuit and results are shown in the pictures folder.
 
-Fecha de culminacion: 18/01/2017.
+Author: Gabriel Noya.
 
-Fecha de publicacion en Github: 27/04/2017.
-
-Proposito: Realizar un sistema que permita medir la cantidad de agua que contiene un tanque (de agua) en todo momento, mostrandolo a traves de una pantalla LCD al usuario.
-
+Project's date: 18/01/2017
+Published on Github at 27/04/2017
+Updated to English at 28/12/2022.
